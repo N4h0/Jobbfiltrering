@@ -1,2 +1,2 @@
 # Jobbfiltrering
-Prosjekt for å få chatGPT til å automatisk filtrere jobbar for meg
+Starten på prosjekt for å hente og sortere ut relevante jobbar automatisk. 
